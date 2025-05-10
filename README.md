@@ -30,10 +30,6 @@ A simple top-down 2D game created using SDL2 and C++, where you play as a hungry
 - Collectible items:
   - `CARROT`: Required to complete level
   - `HEART`: Restores 1 life
-- Player feedback:
-  - Dynamic lives display
-  - Bunny "dialogue" for win/loss
-  - Simple screen shake, sound effects, and animations
 
 ---
 
