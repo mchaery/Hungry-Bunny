@@ -49,7 +49,7 @@ A simple top-down 2D game created using SDL2 and C++, where you play as a hungry
 ## 🛠️ Built With
 
 - **C++**  
-- **SDL2** (Rendering, Input, Audio)  
-- **GLM** (Matrix math)  
+- **SDL2**
+- **GLM**
 
 ---
