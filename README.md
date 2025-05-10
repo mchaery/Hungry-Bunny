@@ -2,6 +2,10 @@
 
 A simple top-down 2D game created using SDL2 and C++, where you play as a hungry bunny collecting carrots across multiple levels while avoiding enemies and obstacles.
 
+<p align="center">
+  <img src="platformer/assets/game_screen.png" alt="Game Screen" width="600"/>
+</p>
+
 ---
 
 ## 🎮 Gameplay
