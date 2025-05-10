@@ -37,6 +37,15 @@ A simple top-down 2D game created using SDL2 and C++, where you play as a hungry
 
 ---
 
+## 📦 Assets Used
+
+- [Spritesheets by Cup Nooble](https://cupnooble.itch.io/sprout-lands-asset-pack)
+- [Spritesheets by Pixel-Boy, AAA](https://pixel-boy.itch.io/ninja-adventure-asset-pack)
+- [Sound Effects from Mixkit](https://mixkit.co/free-sound-effects/game/)
+- [Background Music from Incompetech](https://incompetech.com/music/royalty-free/music.html)
+
+---
+
 ## 🛠️ Built With
 
 - **C++**  
